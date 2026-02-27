@@ -1,10 +1,11 @@
 """
 This shell script creates Instagram accounts and follows a list of users.
-
+m17.rrs #input# 2
 Inputs:
-- Account name (string)
-- Starting account number (integer)
-- Ending account number (integer)
+- Account name (wake up bot.py
+)
+- Starting account number (1590)
+- Ending account number (1592)
 
 Outputs:
 - Created Instagram accounts
